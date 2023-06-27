@@ -1,4 +1,4 @@
-# WealthSimpler
+# WealthSimpler ETH Global Hackathon Submission by Vijay, Sriram, Shiv, David, Abdul
 
 ## ✨ Inspiration
 
