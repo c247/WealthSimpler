@@ -1,5 +1,8 @@
 # WealthSimpler ETHGlobal Waterloo by Vijay, Sriram, Shiv, David, Abdul
 
+
+![dashboard](./demo.png)
+
 ## ✨ Inspiration
 
 Traditional finance often involves lock-up periods and complex processes for earning yield on excess funds. However, leveraging account abstraction (ERC-4337) and a user-friendly login experience, organizations can easily start investing without requiring prior Externally Owned Accounts.
