@@ -1,4 +1,4 @@
-# WealthSimpler ETHGlobal Waterloo by Vijay, Sriram, Shiv, David, Abdul
+# WealthSimpler by Vijay, Sriram, Shiv, David, Abdul
 
 
 ![dashboard](./demo.png)
