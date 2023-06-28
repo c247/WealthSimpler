@@ -1,7 +1,7 @@
 # WealthSimpler by Vijay, Sriram, Shiv, David, Abdul
 
 - Winner of Polygon and Airstack Bounty: https://ethglobal.com/showcase/wealthsimpler-yktii
-- 
+  
 ![dashboard](./demo.png)
 
 ## ✨ Inspiration
